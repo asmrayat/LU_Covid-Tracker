@@ -14,6 +14,13 @@
 ####  Backend code by Shrabon
 #### Logic  build,admin info by Tanmoy
 ####  UML Diagram , Add info page by Danbir
+
+<h1> language and tools </h1>
+
+- The project is implemented using Java Programming language.
+To do this project we use several packages, classes,interface
+ - Tools: netbeans,IntelliJ IDEA, Visual Studio Code.
+ 
 <h1> Read Our Project Report </h1>
 
 [ProjectReport.pdf](https://github.com/asmrayat/LU_Covid-Tracker/files/7441184/ProjectReport.pdf)
