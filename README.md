@@ -13,7 +13,7 @@
 ####  UI Design by Rayat
 ####  Backend code by Shrabon
 #### Logic  build,admin info by Tanmoy
-####  UML Diagram , Add info page by Danbir
+####  UML Diagram , Admin panel by Danbir
 
 <h1> language and tools </h1>
 
