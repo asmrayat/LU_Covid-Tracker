@@ -12,13 +12,13 @@
 
 ####  UI Design by Rayat
 ####  Backend code by Shrabon
-#### Logic  build,admin info by Tanmoy
+#### Logic  build, login panel, new user panel info by Tanmoy
 ####  UML Diagram , Admin panel by Danbir
 
 <h1> language and tools </h1>
 
-- The project is implemented using Java Programming language.
-To do this project we use several packages, classes,interface
+- Language: JAVA
+- Database: mySQL
  - Tools: netbeans,IntelliJ IDEA, Visual Studio Code.
  
 <h1> Read Our Project Report </h1>
@@ -35,6 +35,10 @@ To do this project we use several packages, classes,interface
 ![Screenshot 2021-10-28 003308](https://user-images.githubusercontent.com/86654494/139416615-98b007d6-f0e7-42a3-89c3-d31b8f53fa16.png)
 ![Screenshot 2021-10-28 010617](https://user-images.githubusercontent.com/86654494/139416622-8ed15644-7ee2-4807-8620-176caaa90f94.png)
 ![Screenshot 2021-10-28 010651](https://user-images.githubusercontent.com/86654494/139416626-5835cf78-e58b-4adb-a4b0-59b184e086c5.png)
+
+## Data Base
+![data base](https://user-images.githubusercontent.com/86654494/139489412-8c481977-1485-4b25-9f8c-7a0e5ee5f5e2.png)
+
 
 ## UML Diagram
 ![101_UML](https://user-images.githubusercontent.com/86654494/139416633-5bac582f-5923-49a7-87ce-59fd5fb33e86.png)
