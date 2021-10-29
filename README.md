@@ -43,5 +43,5 @@
 ## UML Diagram
 ![101_UML](https://user-images.githubusercontent.com/86654494/139416633-5bac582f-5923-49a7-87ce-59fd5fb33e86.png)
 
-© Team Infinity
+<h3 align="center">© Team Infinity</h3>
 
