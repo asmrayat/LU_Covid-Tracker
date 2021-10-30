@@ -23,9 +23,7 @@
  
 <h1> Read Our Project Report </h1>
 
-[ProjectReport.pdf](https://github.com/asmrayat/LU_Covid-Tracker/files/7441184/ProjectReport.pdf)
-
-
+[ProjectReport.pdf](https://github.com/asmrayat/LU_Covid-Tracker/files/7446024/ProjectReport.pdf)
 
 
 
