@@ -1,5 +1,5 @@
 <h1 align="center"> Project : LU_Covid Tracker </h1>
-<h3 align="center"> OOP project (CSE-2214) </h3>
+<h3 align="center"> Subject: Object-Oriented Programming (CSE-2214) </h3>
 
 <h1> Team Member</h1> 
 
